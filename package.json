@@ -1,0 +1,14 @@
+{
+  "name": "test-git-version",
+  "version": "1.0.0",
+  "description": "测试git version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hank",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
