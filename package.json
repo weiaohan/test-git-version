@@ -1,6 +1,6 @@
 {
   "name": "test-git-version",
-  "version": "1.4.0",
+  "version": "1.4.1-beta.0",
   "description": "测试git version",
   "main": "index.js",
   "scripts": {
