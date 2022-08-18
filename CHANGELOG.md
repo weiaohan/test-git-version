@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.2](https://github.com/weiaohan/test-git-version/compare/v1.4.1...v1.4.2) (2022-08-18)
+
+
+### Bug Fixes
+
+* **deps:** add git-cz ([6b36de1](https://github.com/weiaohan/test-git-version/commit/6b36de14d2b70fce1c411acae3537ed38524d96b))
+
 ### [1.4.1](https://github.com/weiaohan/test-git-version/compare/v1.4.1-beta.0...v1.4.1) (2022-08-18)
 
 
