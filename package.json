@@ -1,15 +1,23 @@
 {
-  "name": "test-git-version",
-  "version": "1.4.1",
-  "description": "测试git version",
-  "main": "index.js",
-  "scripts": {
-    "release": "standard-version",
-    "release:beta": "standard-version --prerelease beta"
-  },
-  "author": "hank",
-  "license": "ISC",
-  "devDependencies": {
-    "standard-version": "^9.5.0"
-  }
+    "name": "test-git-version",
+    "version": "1.4.1",
+    "description": "测试git version",
+    "main": "index.js",
+    "scripts": {
+        "release": "standard-version",
+        "release:beta": "standard-version --prerelease beta",
+        "commit": "git-cz"
+    },
+    "author": "hank",
+    "license": "ISC",
+    "devDependencies": {
+        "cz-conventional-changelog": "^3.3.0",
+        "git-cz": "^4.9.0",
+        "standard-version": "^9.5.0"
+    },
+    "config": {
+        "commitizen": {
+            "path": "node_modules/cz-conventional-changelog"
+        }
+    }
 }
