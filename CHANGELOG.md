@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/weiaohan/test-git-version/compare/v1.4.1-beta.0...v1.4.1) (2022-08-18)
+
+
+### Bug Fixes
+
+* add seven ([12d753b](https://github.com/weiaohan/test-git-version/commit/12d753b004874f6f7f22838a3a928454bdc172d0))
+
 ### [1.4.1-beta.0](https://github.com/weiaohan/test-git-version/compare/v1.4.0...v1.4.1-beta.0) (2022-08-18)
 
 
